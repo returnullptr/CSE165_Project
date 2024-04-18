@@ -1,6 +1,18 @@
 #include <iostream>
+#include <QCoreApplication>
+#include <QJsonObject>
+#include <QJsonArray>
+#include <QJsonDOcument>
+#include <QFile>
+
+void writeJson() {
+    QJsonObject rootObj;
+}
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    QCoreApplication a(argc, argv);
+
+    writeJson();
+
+    return a.exec();
 }
