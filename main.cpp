@@ -1,9 +1,13 @@
 #include <iostream>
-#include <QCoreApplication>
+// #include <QCoreApplication>
+#include <QApplication>
 #include <QJsonObject>
 #include <QJsonArray>
 #include <QJsonDOcument>
 #include <QFile>
+
+#include "mainwindow.h"
+#include "widget.h"
 
 void writeJson() {
     QJsonObject rootObj;
@@ -104,10 +108,16 @@ void fromJson() {
 }
 
 int main(int argc, char *argv[]) {
-    QCoreApplication a(argc, argv);
+    QApplication a(argc, argv);
 
     // writeJson();
     fromJson();
+
+    // MainWindow w;
+    // w.show();
+
+    Widget w;
+    w.show();
 
     return a.exec();
 }
