@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/aqi.png</file>
+        <file>res/close.png</file>
+        <file>res/humidity.png</file>
+        <file>res/pm25.png</file>
+        <file>res/search.png</file>
+        <file>res/sunrise.png</file>
+        <file>res/wind.png</file>
+        <file>res/BaoXue.png</file>
+        <file>res/BaoYu.png</file>
+        <file>res/BaoYuDaoDaBaoYu.png</file>
+        <file>res/DaBaoYu.png</file>
+        <file>res/DaBaoYuDaoTeDaBaoYu.png</file>
+        <file>res/DaDaoBaoXue.png</file>
+        <file>res/DaDaoBaoYu.png</file>
+        <file>res/DaXue.png</file>
+        <file>res/DaYu.png</file>
+        <file>res/DongYu.png</file>
+        <file>res/DuoYun.png</file>
+        <file>res/FuChen.png</file>
+        <file>res/LeiZhenYu.png</file>
+        <file>res/LeiZhenYuBanYouBingBao.png</file>
+        <file>res/Mai.png</file>
+        <file>res/QiangShaChenBao.png</file>
+        <file>res/Qing.png</file>
+        <file>res/ShaChenBao.png</file>
+        <file>res/TeDaBaoYu.png</file>
+        <file>res/Wu.png</file>
+        <file>res/XiaoDaoZhongXue.png</file>
+        <file>res/XiaoDaoZhongYu.png</file>
+        <file>res/XiaoXue.png</file>
+        <file>res/XiaoYu.png</file>
+        <file>res/Xue.png</file>
+        <file>res/YangSha.png</file>
+        <file>res/Yin.png</file>
+        <file>res/Yu.png</file>
+        <file>res/YuJiaXue.png</file>
+        <file>res/ZhenXue.png</file>
+        <file>res/ZhenYu.png</file>
+        <file>res/ZhongDaoDaXue.png</file>
+        <file>res/ZhongDaoDaYu.png</file>
+        <file>res/ZhongXue.png</file>
+        <file>res/ZhongYu.png</file>
+    </qresource>
+</RCC>
